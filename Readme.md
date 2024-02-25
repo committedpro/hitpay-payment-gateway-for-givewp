@@ -1,4 +1,4 @@
-# HitPay ![Logo](hitpay-payment-gateway/assets/images/logo.png)
+# HitPay ![Logo](hitpay-payment-gateway-for-givewp/assets/images/logo.png)
 
 === HitPay Payment Gateway for GiveWP ===
 Contributors: HitPay
@@ -60,19 +60,19 @@ And merchant need to copy the API keys and Salt values from the HitPay Web Dashb
 7. Click "Save Changes"
 
 
-![](hitpay-payment-gateway/assets/screenshots/1-plugin-settings-1.png)
+![](hitpay-payment-gateway-for-givewp/assets/screenshots/1-plugin-settings-1.png)
 
-![](hitpay-payment-gateway/assets/screenshots/1-plugin-settings-2.png)
+![](hitpay-payment-gateway-for-givewp/assets/screenshots/1-plugin-settings-2.png)
 
 == Donation ==
 
-![](hitpay-payment-gateway/assets/screenshots/2-checkout-page-1.png)
+![](hitpay-payment-gateway-for-givewp/assets/screenshots/2-checkout-page-1.png)
 
-![](hitpay-payment-gateway/assets/screenshots/2-checkout-page-2.png)
+![](hitpay-payment-gateway-for-givewp/assets/screenshots/2-checkout-page-2.png)
 
-![](hitpay-payment-gateway/assets/screenshots/2-checkout-page-3.png)
+![](hitpay-payment-gateway-for-givewp/assets/screenshots/2-checkout-page-3.png)
 
-![](hitpay-payment-gateway/assets/screenshots/2-checkout-page-4.png)
+![](hitpay-payment-gateway-for-givewp/assets/screenshots/2-checkout-page-4.png)
 
 == Refunds ==
 
@@ -80,11 +80,11 @@ And merchant need to copy the API keys and Salt values from the HitPay Web Dashb
 2. Navigate to Donations ⇒ Donations
 3. Click edit link to navigate to Donation Payment Details page
 4. If donation is paid via 'HitPay Payment Gateway' then the button 'Refund via HitPay Payment Gateway' will be displayed as attached screen:
-![](hitpay-payment-gateway/assets/screenshots/3-Refund-1.png)
+![](hitpay-payment-gateway-for-givewp/assets/screenshots/3-Refund-1.png)
 5. If gateway accepted the refund request and the Refund details will be added to donation payment note.
 6. Only one refund is allowed per transaction.
 7. Refund is only applicable if the initial charge was made with PayNow or Card.
-![](hitpay-payment-gateway/assets/screenshots/3-Refund-2.png)
+![](hitpay-payment-gateway-for-givewp/assets/screenshots/3-Refund-2.png)
 
 
 == Changelog ==
