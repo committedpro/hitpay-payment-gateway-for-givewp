@@ -1,6 +1,6 @@
 # HitPay ![Logo](hitpay-payment-gateway-for-givewp/assets/images/logo.png)
 
-=== HitPay Payment Gateway for GiveWP ===
+== HitPay Payment Gateway for GiveWP ==
 Contributors: HitPay
 Tags: hitpay payments, GiveWP, payment gateway, hitpay, pay with hitpay, credit card, paynow, wechatpay, alipay
 Requires at least: 4.0
